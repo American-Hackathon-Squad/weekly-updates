@@ -10,6 +10,8 @@ A place to put our weekly updates for the InternHacks2020 Cohort
 
 <ins> Link: </ins> 
 
+[Week 1 Update](https://github.com/American-Hackathon-Squad/weekly-updates/blob/master/Week%201%20Update.md)
+
 ## Week 2: 
 <ins> Description: </ins>
 
